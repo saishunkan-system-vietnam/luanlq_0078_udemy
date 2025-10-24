@@ -1,0 +1,650 @@
+[
+  {
+    "code": "SH0001",
+    "qrcode": "QR0001",
+    "status": "completed",
+    "id": 1,
+    "receiveDatetime": "2025-10-01T09:00:00",
+    "paymentBatchTarget": 1001,
+    "paymentBatchResultId": null,
+    "amount": 1000,
+    "coupons": [
+      {
+        "qrcode": "CPN0001",
+        "code": "COUPON0001",
+        "amount": 500,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0002",
+    "qrcode": "QR0002",
+    "status": "pending",
+    "id": 2,
+    "receiveDatetime": "2025-10-01T09:05:00",
+    "paymentBatchTarget": 1002,
+    "paymentBatchResultId": 2001,
+    "amount": 2000,
+    "coupons": [
+      {
+        "qrcode": "CPN0002",
+        "code": "COUPON0002",
+        "amount": 2000,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0003",
+    "qrcode": "QR0003",
+    "status": "failed",
+    "id": 3,
+    "receiveDatetime": "2025-10-01T09:10:00",
+    "paymentBatchTarget": 1003,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": [
+      {
+        "qrcode": "CPN0008",
+        "code": "COUPON0008",
+        "amount": 3000,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0004",
+    "qrcode": "QR0004",
+    "status": "completed",
+    "id": 4,
+    "receiveDatetime": "2025-10-01T09:15:00",
+    "paymentBatchTarget": 1004,
+    "paymentBatchResultId": 2002,
+    "amount": 4000,
+    "coupons": [
+      {
+        "qrcode": "CPN0004",
+        "code": "COUPON0004",
+        "amount": 2000,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0005",
+    "qrcode": "QR0005",
+    "status": "pending",
+    "id": 5,
+    "receiveDatetime": "2025-10-01T09:20:00",
+    "paymentBatchTarget": 1005,
+    "paymentBatchResultId": null,
+    "amount": 1500,
+    "coupons": [
+      {
+        "qrcode": "CPN0006",
+        "code": "COUPON0006",
+        "amount": 1500,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0006",
+    "qrcode": "QR0006",
+    "status": "completed",
+    "id": 6,
+    "receiveDatetime": "2025-10-01T09:25:00",
+    "paymentBatchTarget": 1006,
+    "paymentBatchResultId": 2003,
+    "amount": 6000,
+    "coupons": [
+      {
+        "qrcode": "CPN0007",
+        "code": "COUPON0007",
+        "amount": 3000,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0007",
+    "qrcode": "QR0007",
+    "status": "failed",
+    "id": 7,
+    "receiveDatetime": "2025-10-01T09:30:00",
+    "paymentBatchTarget": 1007,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": [
+      {
+        "qrcode": "CPN0005",
+        "code": "COUPON0005",
+        "amount": 2000,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0008",
+    "qrcode": "QR0008",
+    "status": "completed",
+    "id": 8,
+    "receiveDatetime": "2025-10-01T09:35:00",
+    "paymentBatchTarget": 1008,
+    "paymentBatchResultId": 2004,
+    "amount": 2500,
+    "coupons": [
+      {
+        "qrcode": "CPN0009",
+        "code": "COUPON0009",
+        "amount": 2500,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0009",
+    "qrcode": "QR0009",
+    "status": "pending",
+    "id": 9,
+    "receiveDatetime": "2025-10-01T09:40:00",
+    "paymentBatchTarget": 1009,
+    "paymentBatchResultId": null,
+    "amount": 1200,
+    "coupons": [
+      {
+        "qrcode": "CPN0010",
+        "code": "COUPON0010",
+        "amount": 1200,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0010",
+    "qrcode": "QR0010",
+    "status": "completed",
+    "id": 10,
+    "receiveDatetime": "2025-10-01T09:45:00",
+    "paymentBatchTarget": 1010,
+    "paymentBatchResultId": 2005,
+    "amount": 7000,
+    "coupons": [
+      {
+        "qrcode": "CPN0011",
+        "code": "COUPON0011",
+        "amount": 3500,
+        "status": "unused"
+      },
+      {
+        "qrcode": "CPN0012",
+        "code": "COUPON0012",
+        "amount": 3500,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0011",
+    "qrcode": "QR0011",
+    "status": "failed",
+    "id": 11,
+    "receiveDatetime": "2025-10-01T09:50:00",
+    "paymentBatchTarget": 1011,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": []
+  },
+  {
+    "code": "SH0012",
+    "qrcode": "QR0012",
+    "status": "completed",
+    "id": 12,
+    "receiveDatetime": "2025-10-01T09:55:00",
+    "paymentBatchTarget": 1012,
+    "paymentBatchResultId": 2006,
+    "amount": 9000,
+    "coupons": [
+      {
+        "qrcode": "CPN0013",
+        "code": "COUPON0013",
+        "amount": 4500,
+        "status": "unused"
+      },
+      {
+        "qrcode": "CPN0014",
+        "code": "COUPON0014",
+        "amount": 4500,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0013",
+    "qrcode": "QR0013",
+    "status": "pending",
+    "id": 13,
+    "receiveDatetime": "2025-10-01T10:00:00",
+    "paymentBatchTarget": 1013,
+    "paymentBatchResultId": null,
+    "amount": 1800,
+    "coupons": [
+      {
+        "qrcode": "CPN0015",
+        "code": "COUPON0015",
+        "amount": 1800,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0014",
+    "qrcode": "QR0014",
+    "status": "completed",
+    "id": 14,
+    "receiveDatetime": "2025-10-01T10:05:00",
+    "paymentBatchTarget": 1014,
+    "paymentBatchResultId": 2007,
+    "amount": 2200,
+    "coupons": [
+      {
+        "qrcode": "CPN0016",
+        "code": "COUPON0016",
+        "amount": 2200,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0015",
+    "qrcode": "QR0015",
+    "status": "failed",
+    "id": 15,
+    "receiveDatetime": "2025-10-01T10:10:00",
+    "paymentBatchTarget": 1015,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": []
+  },
+  {
+    "code": "SH0016",
+    "qrcode": "QR0016",
+    "status": "completed",
+    "id": 16,
+    "receiveDatetime": "2025-10-01T10:15:00",
+    "paymentBatchTarget": 1016,
+    "paymentBatchResultId": 2008,
+    "amount": 3200,
+    "coupons": [
+      {
+        "qrcode": "CPN0017",
+        "code": "COUPON0017",
+        "amount": 1600,
+        "status": "unused"
+      },
+      {
+        "qrcode": "CPN0018",
+        "code": "COUPON0018",
+        "amount": 1600,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0017",
+    "qrcode": "QR0017",
+    "status": "pending",
+    "id": 17,
+    "receiveDatetime": "2025-10-01T10:20:00",
+    "paymentBatchTarget": 1017,
+    "paymentBatchResultId": null,
+    "amount": 1100,
+    "coupons": [
+      {
+        "qrcode": "CPN0019",
+        "code": "COUPON0019",
+        "amount": 1100,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0018",
+    "qrcode": "QR0018",
+    "status": "completed",
+    "id": 18,
+    "receiveDatetime": "2025-10-01T10:25:00",
+    "paymentBatchTarget": 1018,
+    "paymentBatchResultId": 2009,
+    "amount": 7600,
+    "coupons": [
+      {
+        "qrcode": "CPN0020",
+        "code": "COUPON0020",
+        "amount": 3800,
+        "status": "unused"
+      },
+      {
+        "qrcode": "CPN0021",
+        "code": "COUPON0021",
+        "amount": 3800,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0019",
+    "qrcode": "QR0019",
+    "status": "failed",
+    "id": 19,
+    "receiveDatetime": "2025-10-01T10:30:00",
+    "paymentBatchTarget": 1019,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": []
+  },
+  {
+    "code": "SH0020",
+    "qrcode": "QR0020",
+    "status": "completed",
+    "id": 20,
+    "receiveDatetime": "2025-10-01T10:35:00",
+    "paymentBatchTarget": 1020,
+    "paymentBatchResultId": 2010,
+    "amount": 4500,
+    "coupons": [
+      {
+        "qrcode": "CPN0022",
+        "code": "COUPON0022",
+        "amount": 4500,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0021",
+    "qrcode": "QR0021",
+    "status": "completed",
+    "id": 21,
+    "receiveDatetime": "2025-10-02T08:30:00",
+    "paymentBatchTarget": 1021,
+    "paymentBatchResultId": 2011,
+    "amount": 3000,
+    "coupons": [
+      {
+        "qrcode": "CPN0023",
+        "code": "COUPON0023",
+        "amount": 1500,
+        "status": "used"
+      },
+      {
+        "qrcode": "CPN0024",
+        "code": "COUPON0024",
+        "amount": 1500,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0022",
+    "qrcode": "QR0022",
+    "status": "pending",
+    "id": 22,
+    "receiveDatetime": "2025-10-02T09:10:00",
+    "paymentBatchTarget": 1022,
+    "paymentBatchResultId": null,
+    "amount": 2200,
+    "coupons": [
+      {
+        "qrcode": "CPN0025",
+        "code": "COUPON0025",
+        "amount": 2200,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0023",
+    "qrcode": "QR0023",
+    "status": "failed",
+    "id": 23,
+    "receiveDatetime": "2025-10-02T09:20:00",
+    "paymentBatchTarget": 1023,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": []
+  },
+  {
+    "code": "SH0024",
+    "qrcode": "QR0024",
+    "status": "completed",
+    "id": 24,
+    "receiveDatetime": "2025-10-02T10:00:00",
+    "paymentBatchTarget": 1024,
+    "paymentBatchResultId": 2012,
+    "amount": 5000,
+    "coupons": [
+      {
+        "qrcode": "CPN0026",
+        "code": "COUPON0026",
+        "amount": 2500,
+        "status": "unused"
+      },
+      {
+        "qrcode": "CPN0027",
+        "code": "COUPON0027",
+        "amount": 2500,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0025",
+    "qrcode": "QR0025",
+    "status": "completed",
+    "id": 25,
+    "receiveDatetime": "2025-10-02T11:15:00",
+    "paymentBatchTarget": 1025,
+    "paymentBatchResultId": 2013,
+    "amount": 6500,
+    "coupons": [
+      {
+        "qrcode": "CPN0028",
+        "code": "COUPON0028",
+        "amount": 6500,
+        "status": "used"
+      }
+    ]
+  },
+  {
+    "code": "SH0026",
+    "qrcode": "QR0026",
+    "status": "completed",
+    "id": 26,
+    "receiveDatetime": "2025-10-17T08:30:00",
+    "paymentBatchTarget": 1026,
+    "paymentBatchResultId": 2014,
+    "amount": 3500,
+    "coupons": [
+      {
+        "qrcode": "CPN0029",
+        "code": "COUPON0029",
+        "amount": 1500,
+        "status": "used"
+      },
+      {
+        "qrcode": "CPN0030",
+        "code": "COUPON0030",
+        "amount": 2000,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0027",
+    "qrcode": "QR0027",
+    "status": "pending",
+    "id": 27,
+    "receiveDatetime": "2025-10-17T09:10:00",
+    "paymentBatchTarget": 1027,
+    "paymentBatchResultId": null,
+    "amount": 2800,
+    "coupons": [
+      {
+        "qrcode": "CPN0031",
+        "code": "COUPON0031",
+        "amount": 2800,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0028",
+    "qrcode": "QR0028",
+    "status": "failed",
+    "id": 28,
+    "receiveDatetime": "2025-10-17T09:40:00",
+    "paymentBatchTarget": 1028,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": []
+  },
+  {
+    "code": "SH0029",
+    "qrcode": "QR0029",
+    "status": "completed",
+    "id": 29,
+    "receiveDatetime": "2025-10-17T10:15:00",
+    "paymentBatchTarget": 1029,
+    "paymentBatchResultId": 2015,
+    "amount": 4200,
+    "coupons": [
+      {
+        "qrcode": "CPN0032",
+        "code": "COUPON0032",
+        "amount": 2100,
+        "status": "used"
+      },
+      {
+        "qrcode": "CPN0033",
+        "code": "COUPON0033",
+        "amount": 2100,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0030",
+    "qrcode": "QR0030",
+    "status": "pending",
+    "id": 30,
+    "receiveDatetime": "2025-10-17T11:00:00",
+    "paymentBatchTarget": 1030,
+    "paymentBatchResultId": null,
+    "amount": 3100,
+    "coupons": [
+      {
+        "qrcode": "CPN0034",
+        "code": "COUPON0034",
+        "amount": 3100,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0031",
+    "qrcode": "QR0031",
+    "status": "completed",
+    "id": 31,
+    "receiveDatetime": "2025-10-18T08:20:00",
+    "paymentBatchTarget": 1031,
+    "paymentBatchResultId": 2016,
+    "amount": 5600,
+    "coupons": [
+      {
+        "qrcode": "CPN0035",
+        "code": "COUPON0035",
+        "amount": 2800,
+        "status": "used"
+      },
+      {
+        "qrcode": "CPN0036",
+        "code": "COUPON0036",
+        "amount": 2800,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0032",
+    "qrcode": "QR0032",
+    "status": "failed",
+    "id": 32,
+    "receiveDatetime": "2025-10-18T09:00:00",
+    "paymentBatchTarget": 1032,
+    "paymentBatchResultId": null,
+    "amount": 0,
+    "coupons": []
+  },
+  {
+    "code": "SH0033",
+    "qrcode": "QR0033",
+    "status": "completed",
+    "id": 33,
+    "receiveDatetime": "2025-10-19T08:45:00",
+    "paymentBatchTarget": 1033,
+    "paymentBatchResultId": 2017,
+    "amount": 8000,
+    "coupons": [
+      {
+        "qrcode": "CPN0037",
+        "code": "COUPON0037",
+        "amount": 4000,
+        "status": "used"
+      },
+      {
+        "qrcode": "CPN0038",
+        "code": "COUPON0038",
+        "amount": 4000,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0034",
+    "qrcode": "QR0034",
+    "status": "pending",
+    "id": 34,
+    "receiveDatetime": "2025-10-20T09:15:00",
+    "paymentBatchTarget": 1034,
+    "paymentBatchResultId": null,
+    "amount": 2600,
+    "coupons": [
+      {
+        "qrcode": "CPN0039",
+        "code": "COUPON0039",
+        "amount": 2600,
+        "status": "unused"
+      }
+    ]
+  },
+  {
+    "code": "SH0035",
+    "qrcode": "QR0035",
+    "status": "completed",
+    "id": 35,
+    "receiveDatetime": "2025-10-20T10:00:00",
+    "paymentBatchTarget": 1035,
+    "paymentBatchResultId": 2018,
+    "amount": 5000,
+    "coupons": [
+      {
+        "qrcode": "CPN0040",
+        "code": "COUPON0040",
+        "amount": 5000,
+        "status": "used"
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "name": "バッチA",
+    "toDate": "2025-09-25",
+    "status": "paid",
+    "count": 10,
+    "amount": 2000
+  },
+  {
+    "name": "バッチB",
+    "toDate": "2025-09-20",
+    "status": "processing",
+    "count": 5,
+    "amount": 1200
+  },
+  {
+    "name": "バッチC",
+    "toDate": "2025-09-18",
+    "status": "failed",
+    "count": 0,
+    "amount": 0
+  },
+  {
+    "name": "バッチD",
+    "toDate": "2025-09-17",
+    "status": "paid",
+    "count": 8,
+    "amount": 1600
+  },
+  {
+    "name": "バッチE",
+    "toDate": "2025-09-16",
+    "status": "processing",
+    "count": 12,
+    "amount": 2400
+  },
+  {
+    "name": "バッチF",
+    "toDate": "2025-09-15",
+    "status": "failed",
+    "count": 0,
+    "amount": 0
+  },
+  {
+    "name": "バッチG",
+    "toDate": "2025-09-14",
+    "status": "paid",
+    "count": 7,
+    "amount": 1400
+  },
+  {
+    "name": "バッチH",
+    "toDate": "2025-09-13",
+    "status": "processing",
+    "count": 9,
+    "amount": 1800
+  },
+  {
+    "name": "バッチI",
+    "toDate": "2025-09-12",
+    "status": "failed",
+    "count": 0,
+    "amount": 0
+  },
+  {
+    "name": "バッチJ",
+    "toDate": "2025-09-11",
+    "status": "paid",
+    "count": 6,
+    "amount": 1200
+  },
+  {
+    "name": "バッチK",
+    "toDate": "2025-09-10",
+    "status": "processing",
+    "count": 11,
+    "amount": 2200
+  },
+  {
+    "name": "バッチL",
+    "toDate": "2025-09-09",
+    "status": "failed",
+    "count": 0,
+    "amount": 0
+  },
+  {
+    "name": "バッチM",
+    "toDate": "2025-09-08",
+    "status": "paid",
+    "count": 13,
+    "amount": 2600
+  },
+  {
+    "name": "バッチN",
+    "toDate": "2025-09-07",
+    "status": "processing",
+    "count": 4,
+    "amount": 800
+  },
+  {
+    "name": "バッチO",
+    "toDate": "2025-09-06",
+    "status": "paid",
+    "count": 15,
+    "amount": 3000
+  },
+  {
+    "name": "バッチP",
+    "toDate": "2025-09-05",
+    "status": "failed",
+    "count": 0,
+    "amount": 0
+  },
+  {
+    "name": "バッチQ",
+    "toDate": "2025-09-04",
+    "status": "processing",
+    "count": 7,
+    "amount": 1400
+  },
+  {
+    "name": "バッチR",
+    "toDate": "2025-09-03",
+    "status": "paid",
+    "count": 9,
+    "amount": 1800
+  },
+  {
+    "name": "バッチS",
+    "toDate": "2025-09-02",
+    "status": "processing",
+    "count": 10,
+    "amount": 2000
+  },
+  {
+    "name": "バッチT",
+    "toDate": "2025-09-01",
+    "status": "failed",
+    "count": 0,
+    "amount": 0
+  },
+  {
+    "name": "バッチU",
+    "toDate": "2025-08-31",
+    "status": "paid",
+    "count": 14,
+    "amount": 2800
+  },
+  {
+    "name": "バッチV",
+    "toDate": "2025-08-30",
+    "status": "processing",
+    "count": 8,
+    "amount": 1600
+  },
+  {
+    "name": "バッチW",
+    "toDate": "2025-08-29",
+    "status": "paid",
+    "count": 6,
+    "amount": 1200
+  },
+  {
+    "name": "バッチX",
+    "toDate": "2025-08-28",
+    "status": "failed",
+    "count": 0,
+    "amount": 0
+  },
+  {
+    "name": "バッチY",
+    "toDate": "2025-08-27",
+    "status": "paid",
+    "count": 12,
+    "amount": 2400
+  }
+]
